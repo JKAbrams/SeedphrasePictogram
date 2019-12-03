@@ -2,6 +2,8 @@
 
 import sys
 import os
+import os.path
+
 
 # Build the overview.md
 
@@ -26,12 +28,15 @@ def write_overview(wordlist_language):
     references = ''
 
     for word in wordlist:
-        table += '| %s | ![%s][%s] |  |  |  |\n' % (word, word, word)
-
-        references += '[%s]: %s%s.svg "%s"\n' % (word, github_url, word, word)
+        pictogram_filename = '%s.svg' % (word)
+        pictogram_reference = ''
+        if os.path.isfile('pictograms/' + pictogram_filename):
+            pictogram_reference = '![%s][%s]' % (word, word)
+            references += '[%s]: "%s%s"\n' % (word, github_url, pictogram_filename)
+        table += '| %s | %s |  |  |  |\n' % (word, pictogram_reference)
 
     # Write overview:
-    contents = heading + table + references
+    contents = heading + '\n' + table + '\n' + references
     overview_filename = 'overview_%s.md' % (wordlist_language)
     with open(overview_filename, 'w') as f:    
         f.write(contents)
