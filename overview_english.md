@@ -50,7 +50,7 @@
 | alarm |  |  |  |  |
 | album |  |  |  |  |
 | alcohol |  |  |  |  |
-| alert | ![alert][alert] |  |  |  |
+| alert | <img src="./pictograms/alert.svg"> |  |  |  |
 | alien |  |  |  |  |
 | all |  |  |  |  |
 | alley |  |  |  |  |
@@ -68,7 +68,7 @@
 | amount |  |  |  |  |
 | amused |  |  |  |  |
 | analyst |  |  |  |  |
-| anchor | ![anchor][anchor] |  |  |  |
+| anchor | <img src="./pictograms/anchor.svg"> |  |  |  |
 | ancient |  |  |  |  |
 | anger |  |  |  |  |
 | angle |  |  |  |  |
@@ -86,7 +86,7 @@
 | apart |  |  |  |  |
 | apology |  |  |  |  |
 | appear |  |  |  |  |
-| apple | ![apple][apple] |  |  |  |
+| apple | <img src="./pictograms/apple.svg"> |  |  |  |
 | approve |  |  |  |  |
 | april |  |  |  |  |
 | arch |  |  |  |  |
@@ -101,7 +101,7 @@
 | around |  |  |  |  |
 | arrange |  |  |  |  |
 | arrest |  |  |  |  |
-| arrive | ![arrive][arrive] |  |  |  |
+| arrive | <img src="./pictograms/arrive.svg"> |  |  |  |
 | arrow |  |  |  |  |
 | art |  |  |  |  |
 | artefact |  |  |  |  |
@@ -137,14 +137,14 @@
 | awful |  |  |  |  |
 | awkward |  |  |  |  |
 | axis |  |  |  |  |
-| baby | ![baby][baby] |  |  |  |
+| baby | <img src="./pictograms/baby.svg"> |  |  |  |
 | bachelor |  |  |  |  |
 | bacon |  |  |  |  |
 | badge |  |  |  |  |
-| bag | ![bag][bag] |  |  |  |
+| bag | <img src="./pictograms/bag.svg"> |  |  |  |
 | balance |  |  |  |  |
 | balcony |  |  |  |  |
-| ball | ![ball][ball] |  |  |  |
+| ball | <img src="./pictograms/ball.svg"> |  |  |  |
 | bamboo |  |  |  |  |
 | banana |  |  |  |  |
 | banner |  |  |  |  |
@@ -176,12 +176,12 @@
 | better |  |  |  |  |
 | between |  |  |  |  |
 | beyond |  |  |  |  |
-| bicycle | ![bicycle][bicycle] |  |  |  |
+| bicycle | <img src="./pictograms/bicycle.svg"> |  |  |  |
 | bid |  |  |  |  |
 | bike |  |  |  |  |
 | bind |  |  |  |  |
 | biology |  |  |  |  |
-| bird | ![bird][bird] |  |  |  |
+| bird | <img src="./pictograms/bird.svg"> |  |  |  |
 | birth |  |  |  |  |
 | bitter |  |  |  |  |
 | black |  |  |  |  |
@@ -192,20 +192,20 @@
 | bleak |  |  |  |  |
 | bless |  |  |  |  |
 | blind |  |  |  |  |
-| blood | ![blood][blood] |  |  |  |
+| blood | <img src="./pictograms/blood.svg"> |  |  |  |
 | blossom |  |  |  |  |
 | blouse |  |  |  |  |
 | blue |  |  |  |  |
 | blur |  |  |  |  |
 | blush |  |  |  |  |
 | board |  |  |  |  |
-| boat | ![boat][boat] |  |  |  |
+| boat | <img src="./pictograms/boat.svg"> |  |  |  |
 | body |  |  |  |  |
 | boil |  |  |  |  |
 | bomb |  |  |  |  |
 | bone |  |  |  |  |
 | bonus |  |  |  |  |
-| book | ![book][book] |  |  |  |
+| book | <img src="./pictograms/book.svg"> |  |  |  |
 | boost |  |  |  |  |
 | border |  |  |  |  |
 | boring |  |  |  |  |
@@ -216,7 +216,7 @@
 | box |  |  |  |  |
 | boy |  |  |  |  |
 | bracket |  |  |  |  |
-| brain | ![brain][brain] |  |  |  |
+| brain | <img src="./pictograms/brain.svg"> |  |  |  |
 | brand |  |  |  |  |
 | brass |  |  |  |  |
 | brave |  |  |  |  |
@@ -229,7 +229,7 @@
 | bring |  |  |  |  |
 | brisk |  |  |  |  |
 | broccoli |  |  |  |  |
-| broken | ![broken][broken] |  |  |  |
+| broken | <img src="./pictograms/broken.svg"> |  |  |  |
 | bronze |  |  |  |  |
 | broom |  |  |  |  |
 | brother |  |  |  |  |
@@ -246,9 +246,9 @@
 | bundle |  |  |  |  |
 | bunker |  |  |  |  |
 | burden |  |  |  |  |
-| burger | ![burger][burger] |  |  |  |
+| burger | <img src="./pictograms/burger.svg"> |  |  |  |
 | burst |  |  |  |  |
-| bus | ![bus][bus] |  |  |  |
+| bus | <img src="./pictograms/bus.svg"> |  |  |  |
 | business |  |  |  |  |
 | busy |  |  |  |  |
 | butter |  |  |  |  |
@@ -262,20 +262,20 @@
 | cake |  |  |  |  |
 | call |  |  |  |  |
 | calm |  |  |  |  |
-| camera | ![camera][camera] |  |  |  |
-| camp | ![camp][camp] |  |  |  |
-| can | ![can][can] |  |  |  |
+| camera | <img src="./pictograms/camera.svg"> |  |  |  |
+| camp | <img src="./pictograms/camp.svg"> |  |  |  |
+| can | <img src="./pictograms/can.svg"> |  |  |  |
 | canal |  |  |  |  |
-| cancel | ![cancel][cancel] |  |  |  |
+| cancel | <img src="./pictograms/cancel.svg"> |  |  |  |
 | candy |  |  |  |  |
 | cannon |  |  |  |  |
-| canoe | ![canoe][canoe] |  |  |  |
+| canoe | <img src="./pictograms/canoe.svg"> |  |  |  |
 | canvas |  |  |  |  |
 | canyon |  |  |  |  |
 | capable |  |  |  |  |
 | capital |  |  |  |  |
 | captain |  |  |  |  |
-| car | ![car][car] |  |  |  |
+| car | <img src="./pictograms/car.svg"> |  |  |  |
 | carbon |  |  |  |  |
 | card |  |  |  |  |
 | cargo |  |  |  |  |
@@ -332,7 +332,7 @@
 | cinnamon |  |  |  |  |
 | circle |  |  |  |  |
 | citizen |  |  |  |  |
-| city | ![city][city] |  |  |  |
+| city | <img src="./pictograms/city.svg"> |  |  |  |
 | civil |  |  |  |  |
 | claim |  |  |  |  |
 | clap |  |  |  |  |
@@ -345,14 +345,14 @@
 | click |  |  |  |  |
 | client |  |  |  |  |
 | cliff |  |  |  |  |
-| climb | ![climb][climb] |  |  |  |
+| climb | <img src="./pictograms/climb.svg"> |  |  |  |
 | clinic |  |  |  |  |
 | clip |  |  |  |  |
-| clock | ![clock][clock] |  |  |  |
+| clock | <img src="./pictograms/clock.svg"> |  |  |  |
 | clog |  |  |  |  |
 | close |  |  |  |  |
 | cloth |  |  |  |  |
-| cloud | ![cloud][cloud] |  |  |  |
+| cloud | <img src="./pictograms/cloud.svg"> |  |  |  |
 | clown |  |  |  |  |
 | club |  |  |  |  |
 | clump |  |  |  |  |
@@ -430,7 +430,7 @@
 | crystal |  |  |  |  |
 | cube |  |  |  |  |
 | culture |  |  |  |  |
-| cup | ![cup][cup] |  |  |  |
+| cup | <img src="./pictograms/cup.svg"> |  |  |  |
 | cupboard |  |  |  |  |
 | curious |  |  |  |  |
 | current |  |  |  |  |
@@ -459,7 +459,7 @@
 | decline |  |  |  |  |
 | decorate |  |  |  |  |
 | decrease |  |  |  |  |
-| deer | ![deer][deer] |  |  |  |
+| deer | <img src="./pictograms/deer.svg"> |  |  |  |
 | defense |  |  |  |  |
 | define |  |  |  |  |
 | defy |  |  |  |  |
@@ -470,7 +470,7 @@
 | demise |  |  |  |  |
 | denial |  |  |  |  |
 | dentist |  |  |  |  |
-| deny | ![deny][deny] |  |  |  |
+| deny | <img src="./pictograms/deny.svg"> |  |  |  |
 | depart |  |  |  |  |
 | depend |  |  |  |  |
 | deposit |  |  |  |  |
@@ -515,9 +515,9 @@
 | divide |  |  |  |  |
 | divorce |  |  |  |  |
 | dizzy |  |  |  |  |
-| doctor | ![doctor][doctor] |  |  |  |
+| doctor | <img src="./pictograms/doctor.svg"> |  |  |  |
 | document |  |  |  |  |
-| dog | ![dog][dog] |  |  |  |
+| dog | <img src="./pictograms/dog.svg"> |  |  |  |
 | doll |  |  |  |  |
 | dolphin |  |  |  |  |
 | domain |  |  |  |  |
@@ -537,10 +537,10 @@
 | dress |  |  |  |  |
 | drift |  |  |  |  |
 | drill |  |  |  |  |
-| drink | ![drink][drink] |  |  |  |
+| drink | <img src="./pictograms/drink.svg"> |  |  |  |
 | drip |  |  |  |  |
 | drive |  |  |  |  |
-| drop | ![drop][drop] |  |  |  |
+| drop | <img src="./pictograms/drop.svg"> |  |  |  |
 | drum |  |  |  |  |
 | dry |  |  |  |  |
 | duck |  |  |  |  |
@@ -565,7 +565,7 @@
 | economy |  |  |  |  |
 | edge |  |  |  |  |
 | edit |  |  |  |  |
-| educate | ![educate][educate] |  |  |  |
+| educate | <img src="./pictograms/educate.svg"> |  |  |  |
 | effort |  |  |  |  |
 | egg |  |  |  |  |
 | eight |  |  |  |  |
@@ -576,7 +576,7 @@
 | elegant |  |  |  |  |
 | element |  |  |  |  |
 | elephant |  |  |  |  |
-| elevator | ![elevator][elevator] |  |  |  |
+| elevator | <img src="./pictograms/elevator.svg"> |  |  |  |
 | elite |  |  |  |  |
 | else |  |  |  |  |
 | embark |  |  |  |  |
@@ -602,12 +602,12 @@
 | enlist |  |  |  |  |
 | enough |  |  |  |  |
 | enrich |  |  |  |  |
-| enroll | ![enroll][enroll] |  |  |  |
+| enroll | <img src="./pictograms/enroll.svg"> |  |  |  |
 | ensure |  |  |  |  |
 | enter |  |  |  |  |
 | entire |  |  |  |  |
 | entry |  |  |  |  |
-| envelope | ![envelope][envelope] |  |  |  |
+| envelope | <img src="./pictograms/envelope.svg"> |  |  |  |
 | episode |  |  |  |  |
 | equal |  |  |  |  |
 | equip |  |  |  |  |
@@ -630,7 +630,7 @@
 | exact |  |  |  |  |
 | example |  |  |  |  |
 | excess |  |  |  |  |
-| exchange | ![exchange][exchange] |  |  |  |
+| exchange | <img src="./pictograms/exchange.svg"> |  |  |  |
 | excite |  |  |  |  |
 | exclude |  |  |  |  |
 | excuse |  |  |  |  |
@@ -650,7 +650,7 @@
 | express |  |  |  |  |
 | extend |  |  |  |  |
 | extra |  |  |  |  |
-| eye | ![eye][eye] |  |  |  |
+| eye | <img src="./pictograms/eye.svg"> |  |  |  |
 | eyebrow |  |  |  |  |
 | fabric |  |  |  |  |
 | face |  |  |  |  |
@@ -658,10 +658,10 @@
 | fade |  |  |  |  |
 | faint |  |  |  |  |
 | faith |  |  |  |  |
-| fall | ![fall][fall] |  |  |  |
+| fall | <img src="./pictograms/fall.svg"> |  |  |  |
 | false |  |  |  |  |
 | fame |  |  |  |  |
-| family | ![family][family] |  |  |  |
+| family | <img src="./pictograms/family.svg"> |  |  |  |
 | famous |  |  |  |  |
 | fan |  |  |  |  |
 | fancy |  |  |  |  |
@@ -690,7 +690,7 @@
 | fiction |  |  |  |  |
 | field |  |  |  |  |
 | figure |  |  |  |  |
-| file | ![file][file] |  |  |  |
+| file | <img src="./pictograms/file.svg"> |  |  |  |
 | film |  |  |  |  |
 | filter |  |  |  |  |
 | final |  |  |  |  |
@@ -698,17 +698,17 @@
 | fine |  |  |  |  |
 | finger |  |  |  |  |
 | finish |  |  |  |  |
-| fire | ![fire][fire] |  |  |  |
+| fire | <img src="./pictograms/fire.svg"> |  |  |  |
 | firm |  |  |  |  |
 | first |  |  |  |  |
 | fiscal |  |  |  |  |
-| fish | ![fish][fish] |  |  |  |
+| fish | <img src="./pictograms/fish.svg"> |  |  |  |
 | fit |  |  |  |  |
 | fitness |  |  |  |  |
 | fix |  |  |  |  |
-| flag | ![flag][flag] |  |  |  |
+| flag | <img src="./pictograms/flag.svg"> |  |  |  |
 | flame |  |  |  |  |
-| flash | ![flash][flash] |  |  |  |
+| flash | <img src="./pictograms/flash.svg"> |  |  |  |
 | flat |  |  |  |  |
 | flavor |  |  |  |  |
 | flee |  |  |  |  |
@@ -717,10 +717,10 @@
 | float |  |  |  |  |
 | flock |  |  |  |  |
 | floor |  |  |  |  |
-| flower | ![flower][flower] |  |  |  |
+| flower | <img src="./pictograms/flower.svg"> |  |  |  |
 | fluid |  |  |  |  |
 | flush |  |  |  |  |
-| fly | ![fly][fly] |  |  |  |
+| fly | <img src="./pictograms/fly.svg"> |  |  |  |
 | foam |  |  |  |  |
 | focus |  |  |  |  |
 | fog |  |  |  |  |
@@ -735,7 +735,7 @@
 | fork |  |  |  |  |
 | fortune |  |  |  |  |
 | forum |  |  |  |  |
-| forward | ![forward][forward] |  |  |  |
+| forward | <img src="./pictograms/forward.svg"> |  |  |  |
 | fossil |  |  |  |  |
 | foster |  |  |  |  |
 | found |  |  |  |  |
@@ -752,7 +752,7 @@
 | frown |  |  |  |  |
 | frozen |  |  |  |  |
 | fruit |  |  |  |  |
-| fuel | ![fuel][fuel] |  |  |  |
+| fuel | <img src="./pictograms/fuel.svg"> |  |  |  |
 | fun |  |  |  |  |
 | funny |  |  |  |  |
 | furnace |  |  |  |  |
@@ -765,7 +765,7 @@
 | game |  |  |  |  |
 | gap |  |  |  |  |
 | garage |  |  |  |  |
-| garbage | ![garbage][garbage] |  |  |  |
+| garbage | <img src="./pictograms/garbage.svg"> |  |  |  |
 | garden |  |  |  |  |
 | garlic |  |  |  |  |
 | garment |  |  |  |  |
@@ -813,7 +813,7 @@
 | gown |  |  |  |  |
 | grab |  |  |  |  |
 | grace |  |  |  |  |
-| grain | ![grain][grain] |  |  |  |
+| grain | <img src="./pictograms/grain.svg"> |  |  |  |
 | grant |  |  |  |  |
 | grape |  |  |  |  |
 | grass |  |  |  |  |
@@ -837,10 +837,10 @@
 | habit |  |  |  |  |
 | hair |  |  |  |  |
 | half |  |  |  |  |
-| hammer | ![hammer][hammer] |  |  |  |
+| hammer | <img src="./pictograms/hammer.svg"> |  |  |  |
 | hamster |  |  |  |  |
 | hand |  |  |  |  |
-| happy | ![happy][happy] |  |  |  |
+| happy | <img src="./pictograms/happy.svg"> |  |  |  |
 | harbor |  |  |  |  |
 | hard |  |  |  |  |
 | harsh |  |  |  |  |
@@ -849,9 +849,9 @@
 | have |  |  |  |  |
 | hawk |  |  |  |  |
 | hazard |  |  |  |  |
-| head | ![head][head] |  |  |  |
+| head | <img src="./pictograms/head.svg"> |  |  |  |
 | health |  |  |  |  |
-| heart | ![heart][heart] |  |  |  |
+| heart | <img src="./pictograms/heart.svg"> |  |  |  |
 | heavy |  |  |  |  |
 | hedgehog |  |  |  |  |
 | height |  |  |  |  |
@@ -873,13 +873,13 @@
 | hole |  |  |  |  |
 | holiday |  |  |  |  |
 | hollow |  |  |  |  |
-| home | ![home][home] |  |  |  |
+| home | <img src="./pictograms/home.svg"> |  |  |  |
 | honey |  |  |  |  |
 | hood |  |  |  |  |
 | hope |  |  |  |  |
 | horn |  |  |  |  |
 | horror |  |  |  |  |
-| horse | ![horse][horse] |  |  |  |
+| horse | <img src="./pictograms/horse.svg"> |  |  |  |
 | hospital |  |  |  |  |
 | host |  |  |  |  |
 | hotel |  |  |  |  |
@@ -910,7 +910,7 @@
 | image |  |  |  |  |
 | imitate |  |  |  |  |
 | immense |  |  |  |  |
-| immune | ![immune][immune] |  |  |  |
+| immune | <img src="./pictograms/immune.svg"> |  |  |  |
 | impact |  |  |  |  |
 | impose |  |  |  |  |
 | improve |  |  |  |  |
@@ -922,7 +922,7 @@
 | index |  |  |  |  |
 | indicate |  |  |  |  |
 | indoor |  |  |  |  |
-| industry | ![industry][industry] |  |  |  |
+| industry | <img src="./pictograms/industry.svg"> |  |  |  |
 | infant |  |  |  |  |
 | inflict |  |  |  |  |
 | inform |  |  |  |  |
@@ -938,7 +938,7 @@
 | inquiry |  |  |  |  |
 | insane |  |  |  |  |
 | insect |  |  |  |  |
-| inside | ![inside][inside] |  |  |  |
+| inside | <img src="./pictograms/inside.svg"> |  |  |  |
 | inspire |  |  |  |  |
 | install |  |  |  |  |
 | intact |  |  |  |  |
@@ -968,7 +968,7 @@
 | joy |  |  |  |  |
 | judge |  |  |  |  |
 | juice |  |  |  |  |
-| jump | ![jump][jump] |  |  |  |
+| jump | <img src="./pictograms/jump.svg"> |  |  |  |
 | jungle |  |  |  |  |
 | junior |  |  |  |  |
 | junk |  |  |  |  |
@@ -977,7 +977,7 @@
 | keen |  |  |  |  |
 | keep |  |  |  |  |
 | ketchup |  |  |  |  |
-| key | ![key][key] |  |  |  |
+| key | <img src="./pictograms/key.svg"> |  |  |  |
 | kick |  |  |  |  |
 | kid |  |  |  |  |
 | kidney |  |  |  |  |
@@ -990,10 +990,10 @@
 | kitten |  |  |  |  |
 | kiwi |  |  |  |  |
 | knee |  |  |  |  |
-| knife | ![knife][knife] |  |  |  |
+| knife | <img src="./pictograms/knife.svg"> |  |  |  |
 | knock |  |  |  |  |
 | know |  |  |  |  |
-| lab | ![lab][lab] |  |  |  |
+| lab | <img src="./pictograms/lab.svg"> |  |  |  |
 | label |  |  |  |  |
 | labor |  |  |  |  |
 | ladder |  |  |  |  |
@@ -1014,11 +1014,11 @@
 | layer |  |  |  |  |
 | lazy |  |  |  |  |
 | leader |  |  |  |  |
-| leaf | ![leaf][leaf] |  |  |  |
+| leaf | <img src="./pictograms/leaf.svg"> |  |  |  |
 | learn |  |  |  |  |
 | leave |  |  |  |  |
 | lecture |  |  |  |  |
-| left | ![left][left] |  |  |  |
+| left | <img src="./pictograms/left.svg"> |  |  |  |
 | leg |  |  |  |  |
 | legal |  |  |  |  |
 | legend |  |  |  |  |
@@ -1052,13 +1052,13 @@
 | loan |  |  |  |  |
 | lobster |  |  |  |  |
 | local |  |  |  |  |
-| lock | ![lock][lock] |  |  |  |
+| lock | <img src="./pictograms/lock.svg"> |  |  |  |
 | logic |  |  |  |  |
 | lonely |  |  |  |  |
 | long |  |  |  |  |
 | loop |  |  |  |  |
 | lottery |  |  |  |  |
-| loud | ![loud][loud] |  |  |  |
+| loud | <img src="./pictograms/loud.svg"> |  |  |  |
 | lounge |  |  |  |  |
 | love |  |  |  |  |
 | loyal |  |  |  |  |
@@ -1079,7 +1079,7 @@
 | major |  |  |  |  |
 | make |  |  |  |  |
 | mammal |  |  |  |  |
-| man | ![man][man] |  |  |  |
+| man | <img src="./pictograms/man.svg"> |  |  |  |
 | manage |  |  |  |  |
 | mandate |  |  |  |  |
 | mango |  |  |  |  |
@@ -1120,7 +1120,7 @@
 | merit |  |  |  |  |
 | merry |  |  |  |  |
 | mesh |  |  |  |  |
-| message | ![message][message] |  |  |  |
+| message | <img src="./pictograms/message.svg"> |  |  |  |
 | metal |  |  |  |  |
 | method |  |  |  |  |
 | middle |  |  |  |  |
@@ -1149,12 +1149,12 @@
 | monkey |  |  |  |  |
 | monster |  |  |  |  |
 | month |  |  |  |  |
-| moon | ![moon][moon] |  |  |  |
+| moon | <img src="./pictograms/moon.svg"> |  |  |  |
 | moral |  |  |  |  |
 | more |  |  |  |  |
 | morning |  |  |  |  |
 | mosquito |  |  |  |  |
-| mother | ![mother][mother] |  |  |  |
+| mother | <img src="./pictograms/mother.svg"> |  |  |  |
 | motion |  |  |  |  |
 | motor |  |  |  |  |
 | mountain |  |  |  |  |
@@ -1166,7 +1166,7 @@
 | mule |  |  |  |  |
 | multiply |  |  |  |  |
 | muscle |  |  |  |  |
-| museum | ![museum][museum] |  |  |  |
+| museum | <img src="./pictograms/museum.svg"> |  |  |  |
 | mushroom |  |  |  |  |
 | music |  |  |  |  |
 | must |  |  |  |  |
@@ -1199,21 +1199,21 @@
 | nice |  |  |  |  |
 | night |  |  |  |  |
 | noble |  |  |  |  |
-| noise | ![noise][noise] |  |  |  |
+| noise | <img src="./pictograms/noise.svg"> |  |  |  |
 | nominee |  |  |  |  |
 | noodle |  |  |  |  |
 | normal |  |  |  |  |
 | north |  |  |  |  |
 | nose |  |  |  |  |
 | notable |  |  |  |  |
-| note | ![note][note] |  |  |  |
+| note | <img src="./pictograms/note.svg"> |  |  |  |
 | nothing |  |  |  |  |
 | notice |  |  |  |  |
 | novel |  |  |  |  |
 | now |  |  |  |  |
 | nuclear |  |  |  |  |
 | number |  |  |  |  |
-| nurse | ![nurse][nurse] |  |  |  |
+| nurse | <img src="./pictograms/nurse.svg"> |  |  |  |
 | nut |  |  |  |  |
 | oak |  |  |  |  |
 | obey |  |  |  |  |
@@ -1271,16 +1271,16 @@
 | oyster |  |  |  |  |
 | ozone |  |  |  |  |
 | pact |  |  |  |  |
-| paddle | ![paddle][paddle] |  |  |  |
+| paddle | <img src="./pictograms/paddle.svg"> |  |  |  |
 | page |  |  |  |  |
 | pair |  |  |  |  |
 | palace |  |  |  |  |
 | palm |  |  |  |  |
 | panda |  |  |  |  |
-| panel | ![panel][panel] |  |  |  |
+| panel | <img src="./pictograms/panel.svg"> |  |  |  |
 | panic |  |  |  |  |
 | panther |  |  |  |  |
-| paper | ![paper][paper] |  |  |  |
+| paper | <img src="./pictograms/paper.svg"> |  |  |  |
 | parade |  |  |  |  |
 | parent |  |  |  |  |
 | park |  |  |  |  |
@@ -1303,18 +1303,18 @@
 | pen |  |  |  |  |
 | penalty |  |  |  |  |
 | pencil |  |  |  |  |
-| people | ![people][people] |  |  |  |
+| people | <img src="./pictograms/people.svg"> |  |  |  |
 | pepper |  |  |  |  |
 | perfect |  |  |  |  |
 | permit |  |  |  |  |
-| person | ![person][person] |  |  |  |
+| person | <img src="./pictograms/person.svg"> |  |  |  |
 | pet |  |  |  |  |
-| phone | ![phone][phone] |  |  |  |
+| phone | <img src="./pictograms/phone.svg"> |  |  |  |
 | photo |  |  |  |  |
 | phrase |  |  |  |  |
 | physical |  |  |  |  |
 | piano |  |  |  |  |
-| picnic | ![picnic][picnic] |  |  |  |
+| picnic | <img src="./pictograms/picnic.svg"> |  |  |  |
 | picture |  |  |  |  |
 | piece |  |  |  |  |
 | pig |  |  |  |  |
@@ -1331,7 +1331,7 @@
 | planet |  |  |  |  |
 | plastic |  |  |  |  |
 | plate |  |  |  |  |
-| play | ![play][play] |  |  |  |
+| play | <img src="./pictograms/play.svg"> |  |  |  |
 | please |  |  |  |  |
 | pledge |  |  |  |  |
 | pluck |  |  |  |  |
@@ -1339,10 +1339,10 @@
 | plunge |  |  |  |  |
 | poem |  |  |  |  |
 | poet |  |  |  |  |
-| point | ![point][point] |  |  |  |
+| point | <img src="./pictograms/point.svg"> |  |  |  |
 | polar |  |  |  |  |
 | pole |  |  |  |  |
-| police | ![police][police] |  |  |  |
+| police | <img src="./pictograms/police.svg"> |  |  |  |
 | pond |  |  |  |  |
 | pony |  |  |  |  |
 | pool |  |  |  |  |
@@ -1355,13 +1355,13 @@
 | pottery |  |  |  |  |
 | poverty |  |  |  |  |
 | powder |  |  |  |  |
-| power | ![power][power] |  |  |  |
+| power | <img src="./pictograms/power.svg"> |  |  |  |
 | practice |  |  |  |  |
 | praise |  |  |  |  |
 | predict |  |  |  |  |
 | prefer |  |  |  |  |
 | prepare |  |  |  |  |
-| present | ![present][present] |  |  |  |
+| present | <img src="./pictograms/present.svg"> |  |  |  |
 | pretty |  |  |  |  |
 | prevent |  |  |  |  |
 | price |  |  |  |  |
@@ -1405,7 +1405,7 @@
 | quality |  |  |  |  |
 | quantum |  |  |  |  |
 | quarter |  |  |  |  |
-| question | ![question][question] |  |  |  |
+| question | <img src="./pictograms/question.svg"> |  |  |  |
 | quick |  |  |  |  |
 | quit |  |  |  |  |
 | quiz |  |  |  |  |
@@ -1415,7 +1415,7 @@
 | race |  |  |  |  |
 | rack |  |  |  |  |
 | radar |  |  |  |  |
-| radio | ![radio][radio] |  |  |  |
+| radio | <img src="./pictograms/radio.svg"> |  |  |  |
 | rail |  |  |  |  |
 | rain |  |  |  |  |
 | raise |  |  |  |  |
@@ -1440,7 +1440,7 @@
 | receive |  |  |  |  |
 | recipe |  |  |  |  |
 | record |  |  |  |  |
-| recycle | ![recycle][recycle] |  |  |  |
+| recycle | <img src="./pictograms/recycle.svg"> |  |  |  |
 | reduce |  |  |  |  |
 | reflect |  |  |  |  |
 | reform |  |  |  |  |
@@ -1474,7 +1474,7 @@
 | result |  |  |  |  |
 | retire |  |  |  |  |
 | retreat |  |  |  |  |
-| return | ![return][return] |  |  |  |
+| return | <img src="./pictograms/return.svg"> |  |  |  |
 | reunion |  |  |  |  |
 | reveal |  |  |  |  |
 | review |  |  |  |  |
@@ -1484,10 +1484,10 @@
 | ribbon |  |  |  |  |
 | rice |  |  |  |  |
 | rich |  |  |  |  |
-| ride | ![ride][ride] |  |  |  |
+| ride | <img src="./pictograms/ride.svg"> |  |  |  |
 | ridge |  |  |  |  |
 | rifle |  |  |  |  |
-| right | ![right][right] |  |  |  |
+| right | <img src="./pictograms/right.svg"> |  |  |  |
 | rigid |  |  |  |  |
 | ring |  |  |  |  |
 | riot |  |  |  |  |
@@ -1515,14 +1515,14 @@
 | rude |  |  |  |  |
 | rug |  |  |  |  |
 | rule |  |  |  |  |
-| run | ![run][run] |  |  |  |
+| run | <img src="./pictograms/run.svg"> |  |  |  |
 | runway |  |  |  |  |
 | rural |  |  |  |  |
 | sad |  |  |  |  |
 | saddle |  |  |  |  |
 | sadness |  |  |  |  |
 | safe |  |  |  |  |
-| sail | ![sail][sail] |  |  |  |
+| sail | <img src="./pictograms/sail.svg"> |  |  |  |
 | salad |  |  |  |  |
 | salmon |  |  |  |  |
 | salon |  |  |  |  |
@@ -1545,7 +1545,7 @@
 | scheme |  |  |  |  |
 | school |  |  |  |  |
 | science |  |  |  |  |
-| scissors | ![scissors][scissors] |  |  |  |
+| scissors | <img src="./pictograms/scissors.svg"> |  |  |  |
 | scorpion |  |  |  |  |
 | scout |  |  |  |  |
 | scrap |  |  |  |  |
@@ -1553,7 +1553,7 @@
 | script |  |  |  |  |
 | scrub |  |  |  |  |
 | sea |  |  |  |  |
-| search | ![search][search] |  |  |  |
+| search | <img src="./pictograms/search.svg"> |  |  |  |
 | season |  |  |  |  |
 | seat |  |  |  |  |
 | second |  |  |  |  |
@@ -1573,7 +1573,7 @@
 | service |  |  |  |  |
 | session |  |  |  |  |
 | settle |  |  |  |  |
-| setup | ![setup][setup] |  |  |  |
+| setup | <img src="./pictograms/setup.svg"> |  |  |  |
 | seven |  |  |  |  |
 | shadow |  |  |  |  |
 | shaft |  |  |  |  |
@@ -1585,7 +1585,7 @@
 | shield |  |  |  |  |
 | shift |  |  |  |  |
 | shine |  |  |  |  |
-| ship | ![ship][ship] |  |  |  |
+| ship | <img src="./pictograms/ship.svg"> |  |  |  |
 | shiver |  |  |  |  |
 | shock |  |  |  |  |
 | shoe |  |  |  |  |
@@ -1599,7 +1599,7 @@
 | shuffle |  |  |  |  |
 | shy |  |  |  |  |
 | sibling |  |  |  |  |
-| sick | ![sick][sick] |  |  |  |
+| sick | <img src="./pictograms/sick.svg"> |  |  |  |
 | side |  |  |  |  |
 | siege |  |  |  |  |
 | sight |  |  |  |  |
@@ -1617,16 +1617,16 @@
 | situate |  |  |  |  |
 | six |  |  |  |  |
 | size |  |  |  |  |
-| skate | ![skate][skate] |  |  |  |
+| skate | <img src="./pictograms/skate.svg"> |  |  |  |
 | sketch |  |  |  |  |
-| ski | ![ski][ski] |  |  |  |
+| ski | <img src="./pictograms/ski.svg"> |  |  |  |
 | skill |  |  |  |  |
 | skin |  |  |  |  |
 | skirt |  |  |  |  |
 | skull |  |  |  |  |
 | slab |  |  |  |  |
 | slam |  |  |  |  |
-| sleep | ![sleep][sleep] |  |  |  |
+| sleep | <img src="./pictograms/sleep.svg"> |  |  |  |
 | slender |  |  |  |  |
 | slice |  |  |  |  |
 | slide |  |  |  |  |
@@ -1642,10 +1642,10 @@
 | smoke |  |  |  |  |
 | smooth |  |  |  |  |
 | snack |  |  |  |  |
-| snake | ![snake][snake] |  |  |  |
+| snake | <img src="./pictograms/snake.svg"> |  |  |  |
 | snap |  |  |  |  |
 | sniff |  |  |  |  |
-| snow | ![snow][snow] |  |  |  |
+| snow | <img src="./pictograms/snow.svg"> |  |  |  |
 | soap |  |  |  |  |
 | soccer |  |  |  |  |
 | social |  |  |  |  |
@@ -1692,14 +1692,14 @@
 | spread |  |  |  |  |
 | spring |  |  |  |  |
 | spy |  |  |  |  |
-| square | ![square][square] |  |  |  |
+| square | <img src="./pictograms/square.svg"> |  |  |  |
 | squeeze |  |  |  |  |
 | squirrel |  |  |  |  |
-| stable | ![stable][stable] |  |  |  |
+| stable | <img src="./pictograms/stable.svg"> |  |  |  |
 | stadium |  |  |  |  |
 | staff |  |  |  |  |
 | stage |  |  |  |  |
-| stairs | ![stairs][stairs] |  |  |  |
+| stairs | <img src="./pictograms/stairs.svg"> |  |  |  |
 | stamp |  |  |  |  |
 | stand |  |  |  |  |
 | start |  |  |  |  |
@@ -1739,7 +1739,7 @@
 | suggest |  |  |  |  |
 | suit |  |  |  |  |
 | summer |  |  |  |  |
-| sun | ![sun][sun] |  |  |  |
+| sun | <img src="./pictograms/sun.svg"> |  |  |  |
 | sunny |  |  |  |  |
 | sunset |  |  |  |  |
 | super |  |  |  |  |
@@ -1760,8 +1760,8 @@
 | swear |  |  |  |  |
 | sweet |  |  |  |  |
 | swift |  |  |  |  |
-| swim | ![swim][swim] |  |  |  |
-| swing | ![swing][swing] |  |  |  |
+| swim | <img src="./pictograms/swim.svg"> |  |  |  |
+| swing | <img src="./pictograms/swing.svg"> |  |  |  |
 | switch |  |  |  |  |
 | sword |  |  |  |  |
 | symbol |  |  |  |  |
@@ -1780,13 +1780,13 @@
 | task |  |  |  |  |
 | taste |  |  |  |  |
 | tattoo |  |  |  |  |
-| taxi | ![taxi][taxi] |  |  |  |
+| taxi | <img src="./pictograms/taxi.svg"> |  |  |  |
 | teach |  |  |  |  |
 | team |  |  |  |  |
 | tell |  |  |  |  |
 | ten |  |  |  |  |
 | tenant |  |  |  |  |
-| tennis | ![tennis][tennis] |  |  |  |
+| tennis | <img src="./pictograms/tennis.svg"> |  |  |  |
 | tent |  |  |  |  |
 | term |  |  |  |  |
 | test |  |  |  |  |
@@ -1806,7 +1806,7 @@
 | throw |  |  |  |  |
 | thumb |  |  |  |  |
 | thunder |  |  |  |  |
-| ticket | ![ticket][ticket] |  |  |  |
+| ticket | <img src="./pictograms/ticket.svg"> |  |  |  |
 | tide |  |  |  |  |
 | tiger |  |  |  |  |
 | tilt |  |  |  |  |
@@ -1830,8 +1830,8 @@
 | tone |  |  |  |  |
 | tongue |  |  |  |  |
 | tonight |  |  |  |  |
-| tool | ![tool][tool] |  |  |  |
-| tooth | ![tooth][tooth] |  |  |  |
+| tool | <img src="./pictograms/tool.svg"> |  |  |  |
+| tooth | <img src="./pictograms/tooth.svg"> |  |  |  |
 | top |  |  |  |  |
 | topic |  |  |  |  |
 | topple |  |  |  |  |
@@ -1842,21 +1842,21 @@
 | total |  |  |  |  |
 | tourist |  |  |  |  |
 | toward |  |  |  |  |
-| tower | ![tower][tower] |  |  |  |
+| tower | <img src="./pictograms/tower.svg"> |  |  |  |
 | town |  |  |  |  |
 | toy |  |  |  |  |
 | track |  |  |  |  |
 | trade |  |  |  |  |
 | traffic |  |  |  |  |
 | tragic |  |  |  |  |
-| train | ![train][train] |  |  |  |
+| train | <img src="./pictograms/train.svg"> |  |  |  |
 | transfer |  |  |  |  |
 | trap |  |  |  |  |
-| trash | ![trash][trash] |  |  |  |
+| trash | <img src="./pictograms/trash.svg"> |  |  |  |
 | travel |  |  |  |  |
 | tray |  |  |  |  |
 | treat |  |  |  |  |
-| tree | ![tree][tree] |  |  |  |
+| tree | <img src="./pictograms/tree.svg"> |  |  |  |
 | trend |  |  |  |  |
 | trial |  |  |  |  |
 | tribe |  |  |  |  |
@@ -1866,7 +1866,7 @@
 | trip |  |  |  |  |
 | trophy |  |  |  |  |
 | trouble |  |  |  |  |
-| truck | ![truck][truck] |  |  |  |
+| truck | <img src="./pictograms/truck.svg"> |  |  |  |
 | true |  |  |  |  |
 | truly |  |  |  |  |
 | trumpet |  |  |  |  |
@@ -1877,7 +1877,7 @@
 | tuition |  |  |  |  |
 | tumble |  |  |  |  |
 | tuna |  |  |  |  |
-| tunnel | ![tunnel][tunnel] |  |  |  |
+| tunnel | <img src="./pictograms/tunnel.svg"> |  |  |  |
 | turkey |  |  |  |  |
 | turn |  |  |  |  |
 | turtle |  |  |  |  |
@@ -1905,7 +1905,7 @@
 | unit |  |  |  |  |
 | universe |  |  |  |  |
 | unknown |  |  |  |  |
-| unlock | ![unlock][unlock] |  |  |  |
+| unlock | <img src="./pictograms/unlock.svg"> |  |  |  |
 | until |  |  |  |  |
 | unusual |  |  |  |  |
 | unveil |  |  |  |  |
@@ -1952,7 +1952,7 @@
 | vicious |  |  |  |  |
 | victory |  |  |  |  |
 | video |  |  |  |  |
-| view | ![view][view] |  |  |  |
+| view | <img src="./pictograms/view.svg"> |  |  |  |
 | village |  |  |  |  |
 | vintage |  |  |  |  |
 | violin |  |  |  |  |
@@ -1972,18 +1972,18 @@
 | voyage |  |  |  |  |
 | wage |  |  |  |  |
 | wagon |  |  |  |  |
-| wait | ![wait][wait] |  |  |  |
-| walk | ![walk][walk] |  |  |  |
+| wait | <img src="./pictograms/wait.svg"> |  |  |  |
+| walk | <img src="./pictograms/walk.svg"> |  |  |  |
 | wall |  |  |  |  |
 | walnut |  |  |  |  |
 | want |  |  |  |  |
 | warfare |  |  |  |  |
 | warm |  |  |  |  |
 | warrior |  |  |  |  |
-| wash | ![wash][wash] |  |  |  |
+| wash | <img src="./pictograms/wash.svg"> |  |  |  |
 | wasp |  |  |  |  |
 | waste |  |  |  |  |
-| water | ![water][water] |  |  |  |
+| water | <img src="./pictograms/water.svg"> |  |  |  |
 | wave |  |  |  |  |
 | way |  |  |  |  |
 | wealth |  |  |  |  |
@@ -1998,7 +1998,7 @@
 | welcome |  |  |  |  |
 | west |  |  |  |  |
 | wet |  |  |  |  |
-| whale | ![whale][whale] |  |  |  |
+| whale | <img src="./pictograms/whale.svg"> |  |  |  |
 | what |  |  |  |  |
 | wheat |  |  |  |  |
 | wheel |  |  |  |  |
@@ -2024,7 +2024,7 @@
 | wish |  |  |  |  |
 | witness |  |  |  |  |
 | wolf |  |  |  |  |
-| woman | ![woman][woman] |  |  |  |
+| woman | <img src="./pictograms/woman.svg"> |  |  |  |
 | wonder |  |  |  |  |
 | wood |  |  |  |  |
 | wool |  |  |  |  |
@@ -2049,136 +2049,3 @@
 | zero |  |  |  |  |
 | zone |  |  |  |  |
 | zoo |  |  |  |  |
-
-[alert]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/alert.svg?sanitize=true"
-[anchor]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/anchor.svg?sanitize=true"
-[apple]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/apple.svg?sanitize=true"
-[arrive]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/arrive.svg?sanitize=true"
-[baby]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/baby.svg?sanitize=true"
-[bag]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/bag.svg?sanitize=true"
-[ball]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/ball.svg?sanitize=true"
-[bicycle]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/bicycle.svg?sanitize=true"
-[bird]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/bird.svg?sanitize=true"
-[blood]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/blood.svg?sanitize=true"
-[boat]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/boat.svg?sanitize=true"
-[book]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/book.svg?sanitize=true"
-[brain]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/brain.svg?sanitize=true"
-[broken]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/broken.svg?sanitize=true"
-[burger]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/burger.svg?sanitize=true"
-[bus]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/bus.svg?sanitize=true"
-[camera]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/camera.svg?sanitize=true"
-[camp]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/camp.svg?sanitize=true"
-[can]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/can.svg?sanitize=true"
-[cancel]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/cancel.svg?sanitize=true"
-[canoe]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/canoe.svg?sanitize=true"
-[car]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/car.svg?sanitize=true"
-[city]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/city.svg?sanitize=true"
-[climb]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/climb.svg?sanitize=true"
-[clock]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/clock.svg?sanitize=true"
-[cloud]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/cloud.svg?sanitize=true"
-[cup]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/cup.svg?sanitize=true"
-[deer]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/deer.svg?sanitize=true"
-[deny]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/deny.svg?sanitize=true"
-[doctor]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/doctor.svg?sanitize=true"
-[dog]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/dog.svg?sanitize=true"
-[drink]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/drink.svg?sanitize=true"
-[drop]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/drop.svg?sanitize=true"
-[educate]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/educate.svg?sanitize=true"
-[elevator]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/elevator.svg?sanitize=true"
-[enroll]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/enroll.svg?sanitize=true"
-[envelope]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/envelope.svg?sanitize=true"
-[exchange]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/exchange.svg?sanitize=true"
-[eye]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/eye.svg?sanitize=true"
-[fall]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/fall.svg?sanitize=true"
-[family]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/family.svg?sanitize=true"
-[file]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/file.svg?sanitize=true"
-[fire]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/fire.svg?sanitize=true"
-[fish]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/fish.svg?sanitize=true"
-[flag]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/flag.svg?sanitize=true"
-[flash]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/flash.svg?sanitize=true"
-[flower]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/flower.svg?sanitize=true"
-[fly]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/fly.svg?sanitize=true"
-[forward]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/forward.svg?sanitize=true"
-[fuel]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/fuel.svg?sanitize=true"
-[garbage]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/garbage.svg?sanitize=true"
-[grain]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/grain.svg?sanitize=true"
-[hammer]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/hammer.svg?sanitize=true"
-[happy]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/happy.svg?sanitize=true"
-[head]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/head.svg?sanitize=true"
-[heart]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/heart.svg?sanitize=true"
-[home]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/home.svg?sanitize=true"
-[horse]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/horse.svg?sanitize=true"
-[immune]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/immune.svg?sanitize=true"
-[industry]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/industry.svg?sanitize=true"
-[inside]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/inside.svg?sanitize=true"
-[jump]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/jump.svg?sanitize=true"
-[key]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/key.svg?sanitize=true"
-[knife]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/knife.svg?sanitize=true"
-[lab]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/lab.svg?sanitize=true"
-[leaf]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/leaf.svg?sanitize=true"
-[left]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/left.svg?sanitize=true"
-[lock]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/lock.svg?sanitize=true"
-[loud]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/loud.svg?sanitize=true"
-[man]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/man.svg?sanitize=true"
-[message]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/message.svg?sanitize=true"
-[moon]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/moon.svg?sanitize=true"
-[mother]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/mother.svg?sanitize=true"
-[museum]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/museum.svg?sanitize=true"
-[noise]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/noise.svg?sanitize=true"
-[note]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/note.svg?sanitize=true"
-[nurse]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/nurse.svg?sanitize=true"
-[paddle]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/paddle.svg?sanitize=true"
-[panel]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/panel.svg?sanitize=true"
-[paper]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/paper.svg?sanitize=true"
-[people]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/people.svg?sanitize=true"
-[person]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/person.svg?sanitize=true"
-[phone]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/phone.svg?sanitize=true"
-[picnic]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/picnic.svg?sanitize=true"
-[play]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/play.svg?sanitize=true"
-[point]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/point.svg?sanitize=true"
-[police]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/police.svg?sanitize=true"
-[power]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/power.svg?sanitize=true"
-[present]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/present.svg?sanitize=true"
-[question]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/question.svg?sanitize=true"
-[radio]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/radio.svg?sanitize=true"
-[recycle]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/recycle.svg?sanitize=true"
-[return]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/return.svg?sanitize=true"
-[ride]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/ride.svg?sanitize=true"
-[right]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/right.svg?sanitize=true"
-[run]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/run.svg?sanitize=true"
-[sail]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/sail.svg?sanitize=true"
-[scissors]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/scissors.svg?sanitize=true"
-[search]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/search.svg?sanitize=true"
-[setup]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/setup.svg?sanitize=true"
-[ship]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/ship.svg?sanitize=true"
-[sick]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/sick.svg?sanitize=true"
-[skate]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/skate.svg?sanitize=true"
-[ski]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/ski.svg?sanitize=true"
-[sleep]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/sleep.svg?sanitize=true"
-[snake]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/snake.svg?sanitize=true"
-[snow]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/snow.svg?sanitize=true"
-[square]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/square.svg?sanitize=true"
-[stable]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/stable.svg?sanitize=true"
-[stairs]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/stairs.svg?sanitize=true"
-[sun]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/sun.svg?sanitize=true"
-[swim]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/swim.svg?sanitize=true"
-[swing]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/swing.svg?sanitize=true"
-[taxi]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/taxi.svg?sanitize=true"
-[tennis]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/tennis.svg?sanitize=true"
-[ticket]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/ticket.svg?sanitize=true"
-[tool]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/tool.svg?sanitize=true"
-[tooth]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/tooth.svg?sanitize=true"
-[tower]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/tower.svg?sanitize=true"
-[train]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/train.svg?sanitize=true"
-[trash]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/trash.svg?sanitize=true"
-[tree]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/tree.svg?sanitize=true"
-[truck]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/truck.svg?sanitize=true"
-[tunnel]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/tunnel.svg?sanitize=true"
-[unlock]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/unlock.svg?sanitize=true"
-[view]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/view.svg?sanitize=true"
-[wait]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/wait.svg?sanitize=true"
-[walk]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/walk.svg?sanitize=true"
-[wash]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/wash.svg?sanitize=true"
-[water]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/water.svg?sanitize=true"
-[whale]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/whale.svg?sanitize=true"
-[woman]: "https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/woman.svg?sanitize=true"

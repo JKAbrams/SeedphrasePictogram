@@ -22,25 +22,20 @@ def write_overview(wordlist_language):
     heading += '| ----------- |:-------------:|:-----------:|:-------:|-------:|\n'
 
     table = ''
-
-    github_url = 'https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/'
     
-    references = ''
-
     for word in wordlist:
-        pictogram_filename = '%s.svg' % (word)
-        pictogram_reference = ''
-        if os.path.isfile('pictograms/' + pictogram_filename):
-            pictogram_reference = '![%s][%s]' % (word, word)
-            references += '[%s]: "%s%s?sanitize=true"\n' % (word, github_url, pictogram_filename)
-        table += '| %s | %s |  |  |  |\n' % (word, pictogram_reference)
+        pictogram = ''
+        pictogram_filename = './pictograms/%s.svg' % (word)
+        if os.path.isfile(pictogram_filename):
+            pictogram = '<img src="%s">' % (pictogram_filename)
+        table += '| %s | %s |  |  |  |\n' % (word, pictogram)
 
     # Write overview:
-    contents = heading + table + '\n' + references
+    contents = heading + table
     overview_filename = 'overview_%s.md' % (wordlist_language)
     with open(overview_filename, 'w') as f:    
         f.write(contents)
-        
+
         
 def main():
     if language == 'all':
