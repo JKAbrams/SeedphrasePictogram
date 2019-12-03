@@ -32,7 +32,7 @@ def write_overview(wordlist_language):
         pictogram_reference = ''
         if os.path.isfile('pictograms/' + pictogram_filename):
             pictogram_reference = '![%s][%s]' % (word, word)
-            references += '[%s]: "%s%s"\n' % (word, github_url, pictogram_filename)
+            references += '[%s]: "%s%s?sanitize=true"\n' % (word, github_url, pictogram_filename)
         table += '| %s | %s |  |  |  |\n' % (word, pictogram_reference)
 
     # Write overview:
@@ -48,6 +48,7 @@ def main():
             write_overview(wordlist_filename)
     else:
         write_overview(language)
+    print('Wrote overview(s)')
 
 
 main()
