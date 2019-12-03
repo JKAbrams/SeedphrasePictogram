@@ -22,14 +22,13 @@ def write_overview(wordlist_language):
     table = ''
 
     github_url = 'https://raw.githubusercontent.com/JKAbrams/SeedphrasePictogram/master/pictograms/'
-    github_token = 'AAIP7CQZLPMDA773CNQYVTC542DNE'
     
     references = ''
 
     for word in wordlist:
         table += '| %s | ![%s][%s] |  |  |  |\n' % (word, word, word)
 
-        references += '[%s]: %s%s.svg%s "%s"\n' % (word, github_url, word, github_token, word)
+        references += '[%s]: %s%s.svg "%s"\n' % (word, github_url, word, word)
 
     # Write overview:
     contents = heading + table + references
