@@ -1,7 +1,6 @@
 # Overview English
 | Word        | Pictogram     | Properties  | License | Credit |
 | ----------- |:-------------:|:-----------:|:-------:|-------:|
-
 | abandon |  |  |  |  |
 | ability |  |  |  |  |
 | able |  |  |  |  |

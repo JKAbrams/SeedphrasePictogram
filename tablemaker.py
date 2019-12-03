@@ -36,7 +36,7 @@ def write_overview(wordlist_language):
         table += '| %s | %s |  |  |  |\n' % (word, pictogram_reference)
 
     # Write overview:
-    contents = heading + '\n' + table + '\n' + references
+    contents = heading + table + '\n' + references
     overview_filename = 'overview_%s.md' % (wordlist_language)
     with open(overview_filename, 'w') as f:    
         f.write(contents)
