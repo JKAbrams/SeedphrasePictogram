@@ -1,4 +1,5 @@
 # Overview English
+## Statistics132 / 2048 has images
 | Word        | Pictogram     | Properties  | License | Credit |
 | ----------- |:-------------:|:-----------:|:-------:|-------:|
 | abandon |  |  |  |  |

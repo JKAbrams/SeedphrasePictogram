@@ -1,0 +1,141 @@
+{
+    "among": [
+        ["p", "Denotes a mingling or intermixing with distinct or separable objects. (See Usage Note at amidst)"],
+        ["p", "Denotes a belonging of a person or a thing to a group."],
+        ["p", "Denotes a sharing of a common feature in a group."]
+    ],
+    "because": [
+        ["c", "By or for the cause that; on this account that; for the reason that."],
+        ["c", "[obsolete] In order that; that."],
+        ["c", "[Prep. phrase.] by reason of, on account of."],
+        ["r", "[archaic] For the reason (that)."],
+        ["r", "On account (of), for sake (of)."],
+        ["r", "Used alone to refuse to provide a full answer a question begun with \"why\", often taken as an ellipsis of \"Because I said so\"."]
+    ],
+    "during": [
+        ["p", "For all of a given time interval."],
+        ["p", "At any time or period within a given time interval."],
+        ["v", "Present participle of dure."]
+    ],
+    "else": [
+        ["a", "Other; one or something beside"],
+        ["r", "Besides; except that mentioned; in addition"],
+        ["r", "Otherwise; in the other, or the contrary, case; if the facts were different."],
+        ["c", "For otherwise; or else."],
+        ["c", "[computing] but if the condition of the previous if clause is false, do the following."]
+    ],
+    "into": [
+        ["p", "Going inside (of)"],
+        ["p", "Going to a geographic region."],
+        ["p", "Against, especially with force or violence."],
+        ["p", "Producing, becoming"],
+        ["p", "Of (when describing duration)"],
+        ["p", "[colloquial] Intensely interested in or attracted to."],
+        ["p", "[mathematics] Taking distinct arguments to distinct values."],
+        ["p", "[mathematics] The operation of division, with the denominator expressed first."],
+        ["p", "Investigation of a subject."]
+    ],
+    "myself": [
+        ["o", "I or me in person; -- used for emphasis, my own self or person; as I myself will do it; I have done it myself; -- used also instead of me, as the object of the first person of a reflexive verb, without emphasis."]
+    ],
+
+    "satoshi": [
+        ["n", "Last name of the pseudonym of the creator of Bitcoin"],
+        ["n", "A unit of currency equal to 1/100000000 of 1 bitcoin."]
+    ],
+    "since": [
+        ["r", "From a specified time in the past."],
+        ["p", "From (time)."],
+        ["c", "from the time that"],
+        ["c", "because"]
+    ],
+    "that": [
+        ["d", "The (thing) being indicated (at a distance from the speaker, or previously mentioned, or at another time)."],
+        ["o", "[demonstrative] That aforementioned quality."],
+        ["r", "[degree] To a given extent or degree; particularly."],
+        ["r", "[standard in negative constructions] So, so much; very."],
+        ["n", "[philosophy] Something being indicated that is there; one of those."]
+    ],
+    "they": [
+        ["o", "[the third person plural] A group of people or objects previously mentioned."],
+        ["o", "People; some people; someone, excluding the speaker."],
+        ["d", "[archaic or dialectal] those (used for people)"]
+    ],
+
+    "this": [
+        ["d", "The (thing) here (used in indicating something or someone nearby)."],
+        ["d", "The known (thing) (used in indicating something or someone just mentioned)."],
+        ["d", "The known (thing) (used in indicating something or someone about to be mentioned)."],
+        ["d", "A known (thing) (used in first mentioning a person or thing that the speaker does not think is known to the audience). Compare with \"a certain ...\"."],
+        ["r", "To the degree or extent indicated."],
+        ["o", "The thing, item, etc. being indicated."],
+        ["n", "[philosophy] Something being indicated that is here; one of these."],
+        ["i", "[Internet slang] Indicates the speaker's strong approval or agreement with the previous material."]
+    ],
+    "toward": [
+        ["p", "Moving in the direction of (but not necessarily arriving at)."],
+        ["p", "In relation to (someone or something)."],
+        ["p", "For the purpose of attaining (an aim)."],
+        ["p", "Located close to; near (a time or place)."],
+        ["a", "[obsolete] Future; to come."],
+        ["a", "[dated] Approaching, coming near; impending; present, at hand."],
+        ["a", "Yielding, pliant; docile; ready or apt to learn; not froward."],
+        ["a", "Promising, likely; froward."]
+    ],
+    "until": [
+        ["p", "Up to the time of (something happening)."],
+        ["p", "Before (a time)."],
+        ["c", "Up to the time that (a condition becomes true)."],
+        ["c", "Before (a condition becoming true)."]
+    ],
+    "upon": [
+        ["p", "Being above and in contact with another."],
+        ["p", "Being directly supported by another."],
+        ["p", "At a prescribed point in time."],
+        ["r", "Being the target of an action."],
+        ["r", "Incidental to a specified point in time or order of action; usually combined with here-, there- or where-."]
+    ],
+    "what": [
+        ["o", "[interrogative] Which thing, event, circumstance, etc.: used interrogatively in asking for the specification of an identity, quantity, quality, etc."],
+        ["o", "That which; those that; the thing that."],
+        ["o", "[relative, nonstandard] That; which; who."],
+        ["o", "Whatever."],
+        ["r", "[usually followed by \"with\"] In some manner or degree; in part; partly."],
+        ["r", "[obsolete] Why."],
+        ["r", "[now rare] Used to introduce each of two coordinate phrases or concepts; both…and."],
+        ["r", "[Singlish] Alternative form of wat (used to contradict an assumption)"],
+        ["i", "An expression of surprise or disbelief."],
+        ["i", "What do you want? An abrupt, usually unfriendly enquiry as to what a person desires."],
+        ["i", "[Britain, colloquial, dated] Clipping of what do you say?"],
+        ["i", "What did you say? I beg your pardon?"],
+        ["i", "A part of speech used to initiate a sentence. Usually followed by a"],
+        ["d", "Which; which kind of."],
+        ["d", "How much; how great (used in an exclamation)."],
+        ["d", "[relative] Whatever"],
+        ["n", "[obsolete, uncountable] Something; thing; stuff."],
+        ["n", "[countable] The identity of a thing, as an answer to a question of what."],
+        ["n", "[countable] Something that is addressed by what, as opposed to a person, addressed by who."]
+    ],
+    "when": [
+        ["r", "[interrogative] Used to introduce questions about time."],
+        ["r", "Used to introduce indirect questions about time."],
+        ["c", "At what time."],
+        ["c", "At such time as."],
+        ["c", "As soon as."],
+        ["c", "At a time in the past,"],
+        ["o", "[interrogative] What time; which time"],
+        ["n", "The time."],
+        ["i", "That's enough, a command to stop adding something, especially an ingredient of food or drink."]
+    ],
+    "where": [
+        ["r", "[interrogative] at what place; to what place; what place."],
+        ["r", "In what situation."],
+        ["o", "The place in which."],
+        ["r", "[relative] At which, on which."],
+        ["n", "The place in which something happens."]
+    ],
+    "you": [
+        ["d", "The individual or group spoken or written to."],
+        ["d", "Used before epithets for emphasis."]
+    ]
+}

@@ -15,23 +15,33 @@ def write_overview(wordlist_language):
     with open("%s/%s.txt" % (os.path.join(os.path.dirname(__file__), "wordlist"), wordlist_language), "r", encoding="utf-8") as f:
         wordlist = [w.strip() for w in f.readlines()]
     
-    # Add heading:
-    heading = '# Overview English\n'
+    # Heading
+    title = '# Overview English\n'
 
-    heading += '| Word        | Pictogram     | Properties  | License | Credit |\n'
+    heading = '| Word        | Pictogram     | Properties  | License | Credit |\n'
     heading += '| ----------- |:-------------:|:-----------:|:-------:|-------:|\n'
 
+    # Table
     table = ''
+    total_words = 2048
+    has_images = 0
     
     for word in wordlist:
         pictogram = ''
         pictogram_filename = './pictograms/%s.svg' % (word)
         if os.path.isfile(pictogram_filename):
             pictogram = '<img src="%s">' % (pictogram_filename)
+            has_images += 1
         table += '| %s | %s |  |  |  |\n' % (word, pictogram)
 
-    # Write overview:
-    contents = heading + table
+    # Statistics
+    statistics = '## Statistics'
+    statistics += '%i / %i has images\n' % (has_images, total_words)
+    
+
+
+    # Write file
+    contents = title + statistics + heading + table
     overview_filename = 'overview_%s.md' % (wordlist_language)
     with open(overview_filename, 'w') as f:    
         f.write(contents)
