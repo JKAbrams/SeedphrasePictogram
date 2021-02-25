@@ -2,9 +2,7 @@
 The Bitcoin Seed Phrase Pictogram Project
 
 ## About
-Can we create a set of freely available pictograms for Bitcoin recovery seed phrases that can be used as a visual memory guide to more easily remember seed phrases?
-
-Lets try!
+The goal is to have a set of freely available well suited pictograms for Bitcoin recovery seed phrases that can be used as a visual memory guide to more easily remember seed phrases.
 
 ## Project guidelines
 ### What makes a good pictogram for this purpose?
