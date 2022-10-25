@@ -8,6 +8,7 @@ import common as cm
 
 language = 'english'
 
+
 # Build dictionsry
 def buildDictionary(wordlist, language):
     dictionary = {}
@@ -30,6 +31,7 @@ def buildDictionary(wordlist, language):
         dictionary[word] = arr
     return dictionary
 
+
 # Load wordlist, returns the wordlist as an array
 def loadWordlist(language):
     wl = []
@@ -37,6 +39,7 @@ def loadWordlist(language):
     with open(wordlist_filename, "r", encoding="utf-8") as f:
         wl = [w.strip() for w in f.readlines()]
     return wl
+
 
 # Uses wordnet to create a dictionary of the words in the wordlist consisting of multiple definitions per word.
 #   Saves the result as {language}_full_dictionary.json
@@ -51,9 +54,7 @@ def writeFullDictionary(language):
     encoded = encoded.replace('",\n      "', '", "')
     encoded = encoded.replace('"\n    ]', '"]')
     
-    print(encoded)
     cm.writeFile(full_dictionary_filename, encoded)
-    #cm.saveJson(full_dictionary, full_dictionary_filename)
     
 
 # Writes a reduced dictionary consisting of only one definition per word
@@ -78,10 +79,12 @@ def writeReducedDictionary(language):
             reduced[word] = full_dictionary[word][0]
     cm.saveJson(reduced, reduced_dictionary_filename, compatArrays=True)
 
+
 def main(language):
     print(language)
     writeFullDictionary(language)
     writeReducedDictionary(language)
+
 
 main(language)
 
