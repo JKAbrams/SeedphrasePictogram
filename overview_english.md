@@ -1,5 +1,11 @@
-# Overview English
-## Statistics132 / 2048 has images
+# Overview (english)
+
+## Statistics
+
+132 / 2048 has images
+
+# Words
+
 | Word        | Pictogram     | Properties  | License | Credit |
 | ----------- |:-------------:|:-----------:|:-------:|-------:|
 | abandon |  |  |  |  |
