@@ -30,7 +30,7 @@ def write_overview(wordlist_language):
         pictogram = ''
         pictogram_filename = PurePath(__file__).parent / 'pictograms' / ('%s.svg' % word)
         if Path(pictogram_filename).is_file():
-            pictogram = '<img src="%s">' % pictogram_filename
+            pictogram = '<img src="pictograms/%s.svg">' % word
             has_images += 1
         table += '| %s | %s |  |  |  |\n' % (word, pictogram)
 
@@ -51,9 +51,10 @@ def main():
         for wordlist_file in wordListPath.iterdir():
             if wordlist_file.is_file() and not wordlist_file.name.startswith('.'):
                 write_overview(wordlist_file.stem)
+                print('Wrote %s' % wordlist_file.stem)
     else:
         write_overview(language)
-    print('Wrote overview(s)')
+        print('Wrote %s' % language)
 
 
 main()

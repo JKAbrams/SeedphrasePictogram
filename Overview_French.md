@@ -238,7 +238,7 @@
 | bétail |  |  |  |  |
 | beurre |  |  |  |  |
 | biberon |  |  |  |  |
-| bicycle | <img src="/data/Active/SeedphrasePictogram/pictograms/bicycle.svg"> |  |  |  |
+| bicycle | <img src="pictograms/bicycle.svg"> |  |  |  |
 | bidule |  |  |  |  |
 | bijou |  |  |  |  |
 | bilan |  |  |  |  |
@@ -1588,7 +1588,7 @@
 | pyramide |  |  |  |  |
 | quasar |  |  |  |  |
 | querelle |  |  |  |  |
-| question | <img src="/data/Active/SeedphrasePictogram/pictograms/question.svg"> |  |  |  |
+| question | <img src="pictograms/question.svg"> |  |  |  |
 | quiétude |  |  |  |  |
 | quitter |  |  |  |  |
 | quotient |  |  |  |  |
@@ -1817,7 +1817,7 @@
 | spécial |  |  |  |  |
 | sphère |  |  |  |  |
 | spiral |  |  |  |  |
-| stable | <img src="/data/Active/SeedphrasePictogram/pictograms/stable.svg"> |  |  |  |
+| stable | <img src="pictograms/stable.svg"> |  |  |  |
 | station |  |  |  |  |
 | sternum |  |  |  |  |
 | stimulus |  |  |  |  |
@@ -1919,7 +1919,7 @@
 | trafic |  |  |  |  |
 | tragique |  |  |  |  |
 | trahir |  |  |  |  |
-| train | <img src="/data/Active/SeedphrasePictogram/pictograms/train.svg"> |  |  |  |
+| train | <img src="pictograms/train.svg"> |  |  |  |
 | trancher |  |  |  |  |
 | travail |  |  |  |  |
 | trèfle |  |  |  |  |
@@ -1941,7 +1941,7 @@
 | tuile |  |  |  |  |
 | tulipe |  |  |  |  |
 | tumulte |  |  |  |  |
-| tunnel | <img src="/data/Active/SeedphrasePictogram/pictograms/tunnel.svg"> |  |  |  |
+| tunnel | <img src="pictograms/tunnel.svg"> |  |  |  |
 | turbine |  |  |  |  |
 | tuteur |  |  |  |  |
 | tutoyer |  |  |  |  |
