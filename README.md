@@ -49,9 +49,9 @@ There is also the beginnings of a swedish wordlist, this is a WIP with about hal
 
 ### Generator scripts
 The scripts are Python 3 scripts, they require Python NLTK with the OWM-1.4 set.
-* `tablemaker.py` Generates the `Overview_[language].md` files from the wordlists and the pictures available in the pictograms folder.
-* `dictionary_maker.py` Generates the dictionaries `[language].json` and `[language]_full.json` Needs to be run before `dictionary_table_maker.py`
-* `dictionary_table_maker.py` Generates the `Dictionary_[language].md` files from `[language].json`
+* `tablemaker.py` Generates the Overview_[language].md files from the wordlists and the pictures available in the pictograms folder.
+* `dictionary_maker.py` Generates the dictionaries [language].json and [language]_full.json Needs to be run before dictionary_table_maker.py
+* `dictionary_table_maker.py` Generates the Dictionary_[language].md files from [language].json
 
 ## Word of caution
 Please don't use this list to memorize important seed phrases until it reaches a level of stability.
