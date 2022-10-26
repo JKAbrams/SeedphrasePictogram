@@ -11,22 +11,23 @@ In addition to the pictograms are dictionaries that to complement the memorizati
 * There is a two-way recognition between the picture and the word, i.e. it is possible to unambiguously go from one word in the set to one picture in the set and conversely it is possible to go from one picture in the set to one word in the set.
 * It has an unencumbered license or no license at all which makes it available for any purpose.
 
-### Guiding rules for definitions
-* One definition that finds the ground essence of the word in an inclusive way
-* Brevity rather than pedantry, without losing too much precision
+### Guiding rules for picking dictionary definitions
+* One definition that finds the ground essence of the word in an inclusive way.
+* Brevity rather than pedantry, without losing too much precision.
 * A more tangible aspect is better than a less tangible aspect of the words meaning. Concreteness is beneficial as it leads to better integration between the pictograms and the words.
 * Discourage circular definitions
 * If a word have several meanings where a common essence is not what one thinks of, the most everyday recognizable meaning is used.
     For example: _drum_ can mean both a musical percussion instrument or basically anything that has a cylinder form, here the instrument is used.
+* Synchronize the definitions and the pictograms
 
 ### Main sources for definitions
 * Wordnet
-* Wiktionary, Wiktionary simple english
+* Wiktionary, Wiktionary simple English
 
 ## Status
 6% of the English set has pictures.
 There is an English dictionary, it contains for the project handpicked particularly fitting definitions for about half of the words.
-The other languages are mostly stubs but many do contain word automatically generated definitions, unfortunately the definitions are in English.
+The other languages are mostly stubs but many do contain automatically generated definitions, unfortunately the definitions are in English.
 
 ## Word of caution
 Please don't use this list to memorize important seed phrases until it reaches a level of stability.
