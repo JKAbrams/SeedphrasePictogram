@@ -1,23 +1,24 @@
-''' Override for function from built-in json module to allow formatting of JSON two container types
+""" Override for function from built-in json module to allow formatting of JSON two container types
 (arrays and objects), to be optionally specified separately by allowing `indent` to be a 2-tuple.
 Copied this from v3.5.6 (Lib/json/encoder.py) but looks about the same in 3.4-3.6. Probably wont
 work in >=3.7.
-'''
-def _make_iterencode(markers, _default, _encoder, _indent, _floatstr,
-        _key_separator, _item_separator, _sort_keys, _skipkeys, _one_shot,
-        ## HACK: hand-optimized bytecode; turn globals into locals
-        ValueError=ValueError,
-        dict=dict,
-        float=float,
-        id=id,
-        int=int,
-        isinstance=isinstance,
-        list=list,
-        str=str,
-        tuple=tuple,
-        _intstr=int.__str__,
-    ):
+"""
 
+
+def _make_iterencode(markers, _default, _encoder, _indent, _floatstr,
+                     _key_separator, _item_separator, _sort_keys, _skipkeys, _one_shot,
+                     ## HACK: hand-optimized bytecode; turn globals into locals
+                     ValueError=ValueError,
+                     dict=dict,
+                     float=float,
+                     id=id,
+                     int=int,
+                     isinstance=isinstance,
+                     list=list,
+                     str=str,
+                     tuple=tuple,
+                     _intstr=int.__str__,
+                     ):
     _array_indent = None
     if isinstance(_indent, tuple):
         (_indent, _array_indent) = _indent
@@ -192,5 +193,5 @@ def _make_iterencode(markers, _default, _encoder, _indent, _floatstr,
             yield from _iterencode(o, _current_indent_level)
             if markers is not None:
                 del markers[markerid]
+
     return _iterencode
- 
