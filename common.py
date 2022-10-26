@@ -78,6 +78,7 @@ def saveJson(d, filename, compatArrays=False):
     if compatArrays:
         if sys.version_info.major == 3 and 4 <= sys.version_info.minor <= 10:
             import _make_iterencode
+            # noinspection PyProtectedMember
             json.encoder._make_iterencode = _make_iterencode._make_iterencode
             indent = (2, None)
 

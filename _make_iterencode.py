@@ -5,20 +5,10 @@ work in >=3.7.
 """
 
 
-def _make_iterencode(markers, _default, _encoder, _indent, _floatstr,
-                     _key_separator, _item_separator, _sort_keys, _skipkeys, _one_shot,
-                     ## HACK: hand-optimized bytecode; turn globals into locals
-                     ValueError=ValueError,
-                     dict=dict,
-                     float=float,
-                     id=id,
-                     int=int,
-                     isinstance=isinstance,
-                     list=list,
-                     str=str,
-                     tuple=tuple,
-                     _intstr=int.__str__,
-                     ):
+# noinspection PyShadowingBuiltins
+def _make_iterencode(markers, _default, _encoder, _indent, _floatstr, _key_separator, _item_separator, _sort_keys, _skipkeys, _one_shot, ValueError=ValueError,
+                     dict=dict, float=float, id=id, int=int, isinstance=isinstance, list=list, str=str, tuple=tuple, _intstr=int.__str__):
+    # HACK: hand-optimized bytecode; turn globals into locals
     _array_indent = None
     if isinstance(_indent, tuple):
         (_indent, _array_indent) = _indent

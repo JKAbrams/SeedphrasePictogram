@@ -89,7 +89,6 @@ def buildMarkdown(language):
             word_on_line = ''
         last_word = word
 
-        word_class_short = ''
         word_class = ''
         definition = ''
         if word in d and len(d[word]) > 1:
